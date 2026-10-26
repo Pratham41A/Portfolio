@@ -1,0 +1,71 @@
+{
+  "Backend Engineering & Distributed Systems": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "FastAPI",
+    "NestJS",
+    "Express.js",
+    "REST APIs",
+    "GraphQL",
+    "gRPC",
+    "WebSockets",
+    "Socket.IO",
+    "Apache Kafka",
+    "BullMQ"
+  ],
+  "Artificial Intelligence & Generative AI": [
+    "OpenAI API",
+    "Anthropic API",
+    "Google GenAI",
+    "LangGraph",
+    "LangChain",
+    "LlamaIndex",
+    "Model Context Protocol (MCP)",
+    "CrewAI",
+    "LiteLLM",
+    "Ollama",
+    "vLLM",
+    "Langfuse",
+    "LangSmith",
+    "Ragas",
+    "DeepEval"
+  ],
+  "Databases": [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "pgvector",
+    "Qdrant",
+    "Prisma ORM",
+    "SQLAlchemy",
+    "Mongoose"
+  ],
+  "Automation and Integration": [
+    "n8n",
+    "Microsoft Power Automate",
+    "Make",
+    "Playwright",
+    "Crawl4AI"
+  ],
+  "Cloud, DevOps & Tools": [
+    "AWS (EC2, ECS, Lambda, S3)",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "GitHub Actions",
+    "ELK Stack (Elasticsearch, Logstash, Kibana)",
+    "pnpm",
+    "uv"
+  ],
+  "Media & Streaming": [
+    "FFmpeg",
+    "WebRTC",
+    "HLS",
+    "RTMP",
+    "Adaptive Bitrate Streaming (ABR)"
+  ]
+}

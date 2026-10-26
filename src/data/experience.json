@@ -1,0 +1,16 @@
+[
+  {
+    "company": "Onference TV",
+    "role": "Software Engineer (AI & Automation)",
+    "location": "Mumbai, India",
+    "period": "February 2025 – August 2026",
+    "responsibilities": [
+      "Engineered an LLM-powered support assistant integrating Retrieval-Augmented Generation (RAG) with Model Context Protocol (MCP) servers to retrieve platform policies and medical video metadata and fetch real-time event information, generating context-grounded response suggestions for doctor-support queries.",
+      "Implemented semantic response caching using Redis and embedding-based similarity search, targeting a 40–50% reduction in redundant LLM API calls and improved response latency for recurring support and content queries.",
+      "Developed a centralized customer communication dashboard integrating the WhatsApp Business Platform and Microsoft Outlook, unifying support communications and message tracking across both channels.",
+      "Implemented webhook-driven message status synchronization for WhatsApp and Outlook email workflows, processing message lifecycle events and updating relational database records to maintain consistent delivery-status tracking.",
+      "Automated thumbnail generation and AI-powered synopsis extraction for 500+ medical video assets, streamlining content preparation and enriching platform metadata with reusable media assets and structured summaries.",
+      "Automated salary-slip generation and distribution, streamlining recurring payroll cycles and reducing manual document preparation and distribution effort."
+    ]
+  }
+]

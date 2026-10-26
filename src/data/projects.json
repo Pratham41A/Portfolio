@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Vid-Share",
+    "responsibilities": [
+      "Engineered a real-time video ingestion pipeline to transcode incoming streams into HLS segments for live playback.",
+      "Optimized live transcoding configurations to minimize video processing delay during stream ingestion.",
+      "Implemented a 50-second watchdog mechanism to detect stalled streams, terminate orphaned transcoding processes, and automate resource cleanup.",
+      "Automated thumbnail uploads to object storage with 7-day authorization token validity."
+    ],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "Socket.IO",
+      "FFmpeg",
+      "HLS",
+      "Redis",
+      "BullMQ",
+      "Backblaze B2"
+    ],
+    "socials": {
+      "live": "https://vidshare5.netlify.app",
+      "frontend": "https://github.com/Pratham41A/Vid-Share-",
+      "backend": "https://github.com/Pratham41A/Vid-Share"
+    }
+  },
+  {
+    "name": "Short-Url",
+    "responsibilities": [
+      "Built a low-latency URL redirection service targeting sub-50 ms p99 redirect latency through in-memory lookups.",
+      "Implemented atomic short-ID generation to prevent identifier collisions.",
+      "Configured automatic link expiration with configurable lifetimes ranging from 60 seconds to 24 hours, eliminating the need for scheduled cleanup jobs."
+    ],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "Redis",
+      "Atomic Operations",
+      "TTL-Based Expiration"
+    ],
+    "socials": {
+      "live": "https://shorturl5.netlify.app",
+      "frontend": "https://github.com/Pratham41A/Short-Url-",
+      "backend": "https://github.com/Pratham41A/Short-Url"
+    }
+  },
+  {
+    "name": "Task-Management",
+    "responsibilities": [
+      "Developed RESTful APIs to manage tasks, assignments, and shared collaboration workflows.",
+      "Enforced role-based access control to restrict task deletion to creators while permitting authorized assignee updates."
+    ],
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST API Design",
+      "RBAC"
+    ],
+    "socials": {
+      "live": "https://taskmanagement14.netlify.app",
+      "frontend": "https://github.com/Pratham41A/Task-Management-",
+      "backend": "https://github.com/Pratham41A/Task-Management"
+    }
+  }
+]
